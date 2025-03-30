@@ -25,4 +25,4 @@ func randomFormat() string {
     }
 
     return formats[rand.Intn(len(formats))]
-    Return a random greeting}
+}
